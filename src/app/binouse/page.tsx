@@ -1,9 +1,7 @@
 import React from 'react';
 
 const Beers = async () => {
-  const res = await fetch('https://api.sampleapis.com/beers/ale');
-  const beers = await res.json();
-  
+ 
   return (
     <div>
       <h1>Binouse List</h1>

@@ -6,7 +6,7 @@ export default function NotFound() {
     return (
         <div className='p-72'>
             <DotLottieReact
-                src="nope.json"
+                src="/nope.json"
                 loop
                 autoplay
             />
