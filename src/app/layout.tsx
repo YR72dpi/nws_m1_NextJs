@@ -33,6 +33,8 @@ export default function RootLayout({
           <nav>
             <ul className="flex gap-1.5">
               <li><Link href="/">home</Link></li>
+              <li><Link href="/binouse">Binouse</Link></li>
+              <li><Link href="/pinard">Pinard</Link></li>
               <li><Link href="/about">A propose</Link></li>
               <li><Link href="/contact">Contact</Link></li>
             </ul>
