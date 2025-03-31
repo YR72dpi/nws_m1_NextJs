@@ -10,8 +10,7 @@ export default function NotFound() {
                 loop
                 autoplay
             />
-            <h2>Nop !</h2>
-            <p>Not Found</p>
+            <p>Rien à voir ici ! Ciao Bella !</p>
             <Link href="/">Return Home</Link>
         </div>
     )
